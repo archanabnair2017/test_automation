@@ -2,6 +2,6 @@
 {
     public class Class1
     {
-        console.writeline("Hai");
+        Console.WriteLine("Hai");
     }
 }
